@@ -1,0 +1,54 @@
+_repo: The-Joyful-Wisdom-La-Gaya-Scienza_52881
+_version: 0.0.1
+alternative_title: Fröhliche Wissenschaft. English
+contributor:
+  translators:
+  - agent_name: Petre, Maude Dominica
+    aliases:
+    - Petre, M. D. (Maude Dominica)
+    - Petre, Maude D.
+    birthdate: 1863
+    deathdate: 1942
+    gutenberg_agent_id: '47103'
+    url: http://www.gutenberg.org/2009/agents/47103
+  - agent_name: Common, Thomas
+    gutenberg_agent_id: '5123'
+    url: http://www.gutenberg.org/2009/agents/5123
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Common
+  - agent_name: Cohn, Paul V. (Paul Victor)
+    alias: Cohn, Paul Victor
+    gutenberg_agent_id: '41296'
+    url: http://www.gutenberg.org/2009/agents/41296
+creator:
+  author:
+    agent_name: Nietzsche, Friedrich Wilhelm
+    birthdate: 1844
+    deathdate: 1900
+    gutenberg_agent_id: '779'
+    url: http://www.gutenberg.org/2009/agents/779
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Nietzsche
+  editor:
+    agent_name: Levy, Oscar
+    aliases:
+    - Levy, O. (Oscar)
+    - Levy, Oscar Ludwig
+    birthdate: 1867
+    deathdate: 1946
+    gutenberg_agent_id: '7862'
+    url: http://www.gutenberg.org/2009/agents/7862
+    wikipedia: http://en.wikipedia.org/wiki/Oscar_Levy
+description: ''
+gutenberg_issued: '2016-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcc 'B'
+- GITenberg
+title: The Joyful Wisdom ("La Gaya Scienza")
+url: http://www.gutenberg.org/ebooks/52881
