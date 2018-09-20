@@ -1,5 +1,5 @@
 _repo: The-Joyful-Wisdom-La-Gaya-Scienza_52881
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Fröhliche Wissenschaft. English
 contributor:
   translators:
@@ -19,6 +19,9 @@ contributor:
     alias: Cohn, Paul Victor
     gutenberg_agent_id: '41296'
     url: http://www.gutenberg.org/2009/agents/41296
+covers:
+- cover_type: archival
+  image_path: 52881-h/images/cover.jpg
 creator:
   author:
     agent_name: Nietzsche, Friedrich Wilhelm
@@ -38,6 +41,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7862
     wikipedia: http://en.wikipedia.org/wiki/Oscar_Levy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52881#The-Joyful-Wisdom-La-Gaya-Scienza
 gutenberg_issued: '2016-08-23'
 gutenberg_type: Text
 identifiers:
